@@ -59,3 +59,5 @@ Conclusion
 This project significantly enhanced my knowledge of digital memory systems and RTL coding. It reinforced the importance of simulation and verification in hardware design, particularly using Vivado. The insights gained from this project will aid me in future endeavors involving VLSI design and digital systems.
 
 # OUTPUT TESTBENCH & SIMULATION 
+
+![Image](https://github.com/user-attachments/assets/ff868b8e-d63b-4e7b-af7f-c89a7b3a208b)
