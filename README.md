@@ -61,3 +61,5 @@ This project significantly enhanced my knowledge of digital memory systems and R
 # OUTPUT TESTBENCH & SIMULATION 
 
 ![Image](https://github.com/user-attachments/assets/ff868b8e-d63b-4e7b-af7f-c89a7b3a208b)
+
+![Image](https://github.com/user-attachments/assets/78fbe3c4-1974-448a-a570-e5e63a6219b2)
